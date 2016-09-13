@@ -1,0 +1,7 @@
+name: pydata-nc
+dependencies:
+  - python=3.5
+  - bokeh=0.12.3dev3
+  - pandas
+channels:
+  - bokeh/channel/dev

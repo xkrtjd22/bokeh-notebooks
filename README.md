@@ -10,3 +10,8 @@ These IPython notebooks provide useful Bokeh examples and a tutorial to get star
 Please visit the [Bokeh web page](http://bokeh.pydata.org/en/latest) for more information and full documentation.
 
 Be sure to follow us on Twitter @bokehplots!
+
+---
+
+$ conda env create
+$ bokeh sampledata

@@ -13,5 +13,7 @@ Be sure to follow us on Twitter @bokehplots!
 
 ---
 
+```sh
 $ conda env create
 $ bokeh sampledata
+```

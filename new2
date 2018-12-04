@@ -1,0 +1,6 @@
+# As you can see from info method. There are 16598.
+# However, Year has 16327 entries. That means Year has NAN value.
+# Also Year should be integer but it is given as float. Therefore we will convert it.
+# In addition, publisher has NAN values.
+data = pd.read_csv("../input/vgsales.csv")
+data.info()
